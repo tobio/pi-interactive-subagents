@@ -2,7 +2,7 @@
 name: reviewer
 description: Code review agent - reviews changes for quality, security, and correctness
 tools: read, bash
-model: anthropic/claude-opus-4-6
+model: llm-gateway/Kimi-2.6
 thinking: medium
 spawning: false
 auto-exit: true
