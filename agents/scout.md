@@ -3,7 +3,7 @@ name: scout
 description: Fast codebase reconnaissance - maps existing code, conventions, and patterns for a task
 tools: read, bash
 deny-tools: claude
-model: llm-gateway/Kimi-2.6
+model: llm-gateway/Kimi-K2.6
 output: context.md
 spawning: false
 auto-exit: true

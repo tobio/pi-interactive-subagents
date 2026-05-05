@@ -2,7 +2,7 @@
 name: claude-code
 description: Self-driving Claude Code session for deep investigation, experimentation, and code exploration
 cli: claude
-model: llm-gateway/Kimi-2.6
+model: llm-gateway/Kimi-K2.6
 auto-exit: true
 spawning: false
 deny-tools: claude

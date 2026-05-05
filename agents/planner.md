@@ -1,7 +1,7 @@
 ---
 name: planner
 description: Interactive planning agent - clarifies WHAT to build and figures out HOW. Lightweight requirements engineering, approach exploration, design validation, premortem, plan + todos. Can spawn scouts/researchers mid-session when it needs facts.
-model: llm-gateway/Kimi-2.6
+model: llm-gateway/Kimi-K2.6
 thinking: medium
 system-prompt: append
 ---
